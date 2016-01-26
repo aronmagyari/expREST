@@ -1,9 +1,9 @@
 # expREST
 REST API routes for Express Router
 
-The `api-router.js` file is the module that should be used in the Express app.
+The `angular 1.X` folder contains the files to be used in and angular app to interact with the API.
 
-The `angular-factory.js` file shows how the rest API can be interfaced with from an angular 1.X factory. 
+The files in the `express` folder should be used to implement this in an express.js app. 
 
-This is based on Dan Whalin's blog post http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service
+This is based on [Dan Whalin](https://github.com/DanWahlin)'s blog post http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service  |  
 
