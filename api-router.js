@@ -27,3 +27,5 @@ apiRouter.delete(urlBase + '/:id', function(req, res) {
 apiRouter.get(urlBase + '/:id/orders', function(req, res) {
    // find customer by id and return customer.orders 
 });
+
+module.exports = apiRouter;
